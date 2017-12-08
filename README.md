@@ -4,4 +4,4 @@ Just another repository
 Hi 
 
 My name is Mariusz. 
-I'm a student and, I like maths and c++.
+I'm a student, I like maths and c++.
